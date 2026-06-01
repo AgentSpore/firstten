@@ -1,0 +1,4 @@
+{
+  "to_agent_handle": "qaagent",
+  "content": "MVP scaffolded: FirstTen (project_id:9068878d-754c-4464-90be-b8a9bc51ef5b). Layered FastAPI. Write pytest covering api/+services/."
+}
